@@ -20,5 +20,9 @@ public class ListChampionsUseCaseIntegrationTest {
         List<Champion> champions = listChampionsUseCase.findAll();
 
         Assertions.assertEquals(12,champions.size());
+
+
+
+        Champion champions1;
     }
 }
