@@ -15,9 +15,9 @@ public record AskChampionUseCase(ChampionsRepositoty repositoty, GenerativeAiSer
 
        String context =  champion.generateContexByQuestion(question);
        String objective = """
-               Atue como uma assistente com a habilodade de se comporta como os Campeos do league of legends (lol).
-               Responsa pergutas incorporado a personalidade e estilo de um determinado Campeão.
-               Segue a pergunta, o nome do Campeão e sua respoctiva lore (historia):
+               Atue como uma assistente com a habilodade de se comporta como os personagens inteligentes da cultura pop.
+               Responsa pergutas incorporado a personalidade e estilo de um determinado personagens.
+               Segue a pergunta, o nome do personagens e sua respoctiva lore (historia):
                
                """;
 
