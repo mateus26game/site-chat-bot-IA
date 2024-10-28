@@ -25,4 +25,10 @@ Tecnologias Utilizadas
 * HTML, CSS e JavaScript: Usados para desenvolver a interface do usuário.
 
 
+
+
+* link do front do projeto -> [projeto](https://github.com/mateus26game/front-do-chat-bot)
+
+* link do video do projeto -> [video](https://youtu.be/8uTWnjVfj9Q)
+
 <img src="https://skillicons.dev/icons?i=java,spring,html,css,idea,vscode,windows,postman" />
