@@ -5,6 +5,7 @@
 
 Este projeto é um chatbot desenvolvido em Java que permite aos usuários interagir com personagens icônicos da cultura pop, como o Homem de Ferro e Velma Dinkley. Utilizando o framework Spring Boot para o back-end, a aplicação foi projetada para oferecer uma experiência interativa e envolvente.
 
+<img width="1896" height="1008" alt="image" src="https://github.com/user-attachments/assets/d5936cf5-bf4c-42d7-8c71-9c3db73784d3" />
 
 * link do front do projeto -> [projeto](https://github.com/mateus26game/front-do-chat-bot)
 
